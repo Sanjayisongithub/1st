@@ -1,2 +1,3 @@
 # 1st
-this is my first repository
+This is my first repository. 
+I like food, travelling, walking etc.
